@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.course.entities.User;
 import com.example.course.services.UserService;
 
+// esta classe responde as requisições do sistema
+
 @RestController
 @RequestMapping(value = "/users")
 public class UserResource {

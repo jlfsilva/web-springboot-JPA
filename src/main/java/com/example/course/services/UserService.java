@@ -9,6 +9,8 @@ import org.springframework.stereotype.Service;
 import com.example.course.entities.User;
 import com.example.course.repositories.UserRepository;
 
+// esta classe contém a especificação dos métodos de gerenciamento de dados
+
 @Service
 public class UserService {
 	
